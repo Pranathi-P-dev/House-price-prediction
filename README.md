@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="House-price-prediction/banner.jpeg" alt="House Price Prediction Banner" width="100%">
+  <img src="banner.jpeg" alt="House Price Prediction Banner" width="100%">
 </p>
 A simple Linear Regression Project to predict the House prices of that Area based on the Area Prices 
 # House Price Prediction using Linear Regression
